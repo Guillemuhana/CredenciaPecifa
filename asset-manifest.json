@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/CredenciaPecifa/static/js/main.2bcd830c.js",
+    "static/js/213.b8f8afd7.chunk.js": "/CredenciaPecifa/static/js/213.b8f8afd7.chunk.js",
+    "static/js/732.505fc940.chunk.js": "/CredenciaPecifa/static/js/732.505fc940.chunk.js",
+    "static/media/fondo06.jpg": "/CredenciaPecifa/static/media/fondo06.c519125282535c54ff7e.jpg",
+    "static/media/escudo2014.png": "/CredenciaPecifa/static/media/escudo2014.e56e770e1da0fa155efa.png",
+    "static/media/fondo05.png": "/CredenciaPecifa/static/media/fondo05.06b4f1f049ca6f8e6b18.png",
+    "index.html": "/CredenciaPecifa/index.html",
+    "main.2bcd830c.js.map": "/CredenciaPecifa/static/js/main.2bcd830c.js.map",
+    "213.b8f8afd7.chunk.js.map": "/CredenciaPecifa/static/js/213.b8f8afd7.chunk.js.map",
+    "732.505fc940.chunk.js.map": "/CredenciaPecifa/static/js/732.505fc940.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2bcd830c.js"
+  ]
+}
